@@ -374,7 +374,7 @@ nav ul li a {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     height: 600px;
-    background-image: url(/images/design.jpeg);
+    background-image: url(../images/design.jpeg);
     position: relative;
     background-size: cover;
     display: flex;
